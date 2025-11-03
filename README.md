@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF0050&center=true&vCenter=true&width=600&lines=Analista+de+Dados+%7C+Cloud+Engineer;Star+City+Corp+%E2%80%93+Technology+Solutions;Transformando+dados+em+insights+estrat%C3%A9gicos)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF0050&center=true&vCenter=true&width=600&lines=Analista+de+Dados+%7C+Cloud+Engineer;Star+City+Corp+%E2%80%93+Technology+Solutions;Transformando+dados+em+insights+estratégicos)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FF0050?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/jailson-suporte-ti/)
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FF0050)](https://github.com/JailsonsouzaStarCityCorp)
