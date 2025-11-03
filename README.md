@@ -2,11 +2,11 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Analista+de+Dados+%7C+Cloud+Engineer;Fundador+da+Star+City+Corp;Transformando+dados+em+insights+estrat%C3%A9gicos)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF0050&center=true&vCenter=true&width=600&lines=Analista+de+Dados+%7C+Cloud+Engineer;Star+City+Corp+%E2%80%93+Technology+Solutions;Transformando+dados+em+insights+estrat%C3%A9gicos)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jailson-suporte-ti/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JailsonsouzaStarCityCorp)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:empreendedorjailson@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF0050?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/jailson-suporte-ti/)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FF0050)](https://github.com/JailsonsouzaStarCityCorp)
+[![Email](https://img.shields.io/badge/Email-FF0050?style=for-the-badge&logo=gmail&logoColor=black)](mailto:empreendedorjailson@gmail.com)
 
 </div>
 
@@ -16,7 +16,7 @@
 
 Sou **Analista de Dados** e **Engenheiro de Cloud** especializado em construir soluções escaláveis que conectam tecnologia e estratégia de negócios. Com expertise em automação de processos, análise de dados e integração de sistemas, transformo dados complexos em insights acionáveis.
 
-**Fundador da Star City Corp**, empresa focada em soluções de TI, Cloud Computing e Data Analytics, atuo desenvolvendo infraestruturas robustas e pipelines de dados que impulsionam a tomada de decisão baseada em evidências.
+Atuo na **Star City Corp**, desenvolvendo infraestruturas robustas e pipelines de dados que impulsionam a tomada de decisão baseada em evidências.
 
 ### 💡 Áreas de Especialização
 
@@ -31,33 +31,33 @@ Sou **Analista de Dados** e **Engenheiro de Cloud** especializado em construir s
 ## 🛠️ Stack Tecnológica
 
 ### Linguagens & Frameworks
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FF0050)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=FF0050)
+![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=FF0050)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=FF0050)
+![Django](https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=FF0050)
+![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=FF0050)
 
 ### Cloud & DevOps
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-000000?style=for-the-badge&logo=google-cloud&logoColor=FF0050)
+![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazon-aws&logoColor=FF0050)
+![Azure](https://img.shields.io/badge/Azure-000000?style=for-the-badge&logo=microsoft-azure&logoColor=FF0050)
+![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=FF0050)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FF0050)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=FF0050)
 
 ### Dados & Analytics
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=google-bigquery&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=FF0050)
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=FF0050)
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=FF0050)
+![Pandas](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=FF0050)
+![BigQuery](https://img.shields.io/badge/BigQuery-000000?style=for-the-badge&logo=google-bigquery&logoColor=FF0050)
+![Power BI](https://img.shields.io/badge/Power_BI-000000?style=for-the-badge&logo=power-bi&logoColor=FF0050)
 
 ### Ferramentas & Plataformas
-![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
-![Zabbix](https://img.shields.io/badge/Zabbix-CC2936?style=for-the-badge&logo=zabbix&logoColor=white)
-![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white)
+![Salesforce](https://img.shields.io/badge/Salesforce-000000?style=for-the-badge&logo=salesforce&logoColor=FF0050)
+![Zabbix](https://img.shields.io/badge/Zabbix-000000?style=for-the-badge&logo=zabbix&logoColor=FF0050)
+![Looker](https://img.shields.io/badge/Looker-000000?style=for-the-badge&logo=looker&logoColor=FF0050)
 
 ---
 
@@ -93,11 +93,11 @@ Plataforma integrada de monitoramento de infraestrutura de TI.
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JailsonsouzaStarCityCorp&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JailsonsouzaStarCityCorp&show_icons=true&theme=radical&hide_border=true&bg_color=000000&title_color=FF0050&icon_color=FF0050&text_color=00FFFF&ring_color=FF0050)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JailsonsouzaStarCityCorp&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JailsonsouzaStarCityCorp&theme=radical&hide_border=true&background=000000&stroke=FF0050&ring=FF0050&fire=FF0050&currStreakLabel=00FFFF&sideLabels=00FFFF)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JailsonsouzaStarCityCorp&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JailsonsouzaStarCityCorp&layout=compact&theme=radical&hide_border=true&bg_color=000000&title_color=FF0050&text_color=00FFFF)
 
 </div>
 
@@ -105,14 +105,14 @@ Plataforma integrada de monitoramento de infraestrutura de TI.
 
 ## 🎯 Experiência Profissional
 
-**Fundador & Lead Engineer** | Star City Corp  
+**Analista de Dados & Cloud Engineer** | Star City Corp  
 *2020 - Presente*
 - Desenvolvimento de soluções cloud-native em GCP, AWS e Azure
 - Implementação de pipelines de dados e arquiteturas ETL
 - Consultoria em transformação digital e análise de dados
 - Integrações corporativas com Salesforce, APIs de pagamento e sistemas legados
 
-**Analista de Dados & Cloud Engineer** | Projetos Diversos  
+**Engenheiro de Dados & Automação** | Projetos Diversos  
 *2018 - Presente*
 - Automação de processos com Python e scripts SQL
 - Criação de dashboards executivos em Power BI e Looker Studio
@@ -134,7 +134,7 @@ Plataforma integrada de monitoramento de infraestrutura de TI.
 
 **Missão**: Transformar negócios através de tecnologia, dados e inovação.
 
-**Serviços Oferecidos**:
+**Serviços Especializados**:
 - ☁️ Cloud Computing & Infraestrutura
 - 📊 Business Intelligence & Data Analytics
 - 🔗 Integração de Sistemas & APIs
@@ -157,7 +157,7 @@ Estou sempre aberto a novos projetos, colaborações e oportunidades. Vamos conv
 
 ### ⚡ "Dados contam histórias. Tecnologia as transforma em realidade."
 
-![Profile Views](https://komarev.com/ghpvc/?username=JailsonsouzaStarCityCorp&color=00D9FF&style=flat-square&label=Visualizações)
+![Profile Views](https://komarev.com/ghpvc/?username=JailsonsouzaStarCityCorp&color=FF0050&style=flat-square&label=Visualizações)
 
 **Feito com 💙 por Jailson da Silva Souza | Star City Corp**
 
