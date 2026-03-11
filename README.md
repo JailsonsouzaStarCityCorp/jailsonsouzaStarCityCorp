@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Transformando+dados+em+decisões+inteligentes;Data+Analytics+%7C+Graph+Databases+%7C+Python;Oracle+Cloud+Certified+%7C+AWS+Certified;Construindo+o+futuro+com+dados+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Transformando+dados+em+decisões+inteligentes;Data+Analytics+%7C+Graph+Databases+%7C+Python;Oracle+Cloud+Certified+%7C+AWS+em+preparo+%F0%9F%93%9A;Construindo+o+futuro+com+dados+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <br/>
 
@@ -37,7 +37,7 @@ jailson = {
     "foco":       ["Data Analytics", "Graph Databases", "AI & ML"],
     "paixão":     "Transformar dados em valor real",
     "ferramentas":["Python", "Neo4j", "SQL", "Cloud"],
-    "cloud":      ["Oracle Cloud ✅", "AWS ✅"],
+    "cloud":      ["Oracle Cloud ✅", "AWS 📚 (em preparo)"],
     "objetivo":   "Construir soluções inteligentes baseadas em dados"
 }
 ```
@@ -54,8 +54,8 @@ jailson = {
 |:---|:---:|:---:|
 | ☁️ **Oracle Cloud Infrastructure Foundations** | Oracle | ✅ Certificado |
 | ☁️ **Oracle Cloud Data Management** | Oracle | ✅ Certificado |
-| ☁️ **AWS Cloud Practitioner** | Amazon Web Services | ✅ Certificado |
-| ☁️ **AWS Solutions Architect** | Amazon Web Services | ✅ Certificado |
+| ☁️ **AWS Cloud Practitioner** | Amazon Web Services | 📚 Em estudo |
+| ☁️ **AWS Solutions Architect** | Amazon Web Services | 📚 Em estudo |
 
 </div>
 
@@ -63,7 +63,7 @@ jailson = {
 
 <img src="https://img.shields.io/badge/Oracle_Cloud-Certified-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 &nbsp;
-<img src="https://img.shields.io/badge/AWS-Certified-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-Em%20Prepara%C3%A7%C3%A3o-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 
 </div>
 
