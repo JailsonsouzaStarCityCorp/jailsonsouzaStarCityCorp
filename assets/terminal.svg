@@ -49,8 +49,8 @@
   <text class="t l1" x="24" y="72"><tspan class="p">$</tspan> whoami</text>
   <text class="t l2" x="24" y="102">jailson — analista de suporte &amp; dados <tspan class="p">→</tspan> dev de apps</text>
   <text class="t l3" x="24" y="137"><tspan class="p">$</tspan> cat stack.txt</text>
-  <text class="t l4" x="24" y="167"><tspan class="dim">flutter · python · sql · supabase · aws · oci · grafana</tspan></text>
-  <text class="t l5" x="24" y="202"><tspan class="p">$</tspan> flutter build apk <tspan class="hl">--plinplin</tspan></text>
+  <text class="t l4" x="24" y="167"><tspan class="dim">python · sql · aws · oci · grafana · zabbix · android</tspan></text>
+  <text class="t l5" x="24" y="202"><tspan class="p">$</tspan> ./build meu-app <tspan class="hl">--android</tspan></text>
 
   <g class="t l6">
     <rect x="24" y="216" width="300" height="16" rx="8" fill="#1F1C2B"/>

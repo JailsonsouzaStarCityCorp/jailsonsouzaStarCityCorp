@@ -38,7 +38,7 @@ Hoje também **desenvolvo meu próprio aplicativo Android**, do banco de dados a
 
 | Projeto | O que é | Stack |
 |---|---|---|
-| 📱 **Plinplin** 🔒 | App de lives com chat, presentes animados, níveis e notificações em tempo real | Flutter · Supabase · LiveKit · Cloudflare Workers |
+| 📱 **Plinplin** 🔒 | App de lives com chat, presentes animados, níveis e notificações em tempo real | 🔒 Projeto fechado |
 | ✂️ **ClipJota** 🔒 | Editor de cortes para clipadores, com assinatura mensal | Python · FFmpeg · Android |
 | 🎬 [**Editor Jota**](https://github.com/JailsonsouzaStarCityCorp/editor-jota-app.) | Versão aberta do editor de vídeos, nascida no Termux | Python · FFmpeg |
 
