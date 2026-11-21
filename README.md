@@ -1,151 +1,69 @@
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22C3EE,30:3D7BFF,55:8B3DFF,78:F032E6,100:FF8A1F&height=220&section=header&text=Jailson%20Souza&fontSize=62&fontColor=F5F3FA&fontAlignY=36&desc=Suporte%20%E2%80%A2%20Dados%20%E2%80%A2%20Cloud%20%E2%80%A2%20Dev%20de%20Apps&descAlignY=58&descSize=20&descFontColor=F5F3FA&animation=twinkling" />
+
+Typing SVG
+
+<a href="https://www.linkedin.com/in/jailsonsilvaanalista"> <img src="https://img.shields.io/badge/LinkedIn-Conectar-3D7BFF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B0A12"/> </a> &nbsp; <a href="https://github.com/JailsonsouzaStarCityCorp"> <img src="https://img.shields.io/badge/GitHub-Seguir-8B3DFF?style=for-the-badge&logo=github&logoColor=white&labelColor=0B0A12"/> </a> &nbsp; <img src="https://komarev.com/ghpvc/?username=JailsonsouzaStarCityCorp&label=Visitas&color=F032E6&style=for-the-badge&labelColor=0B0A12"/> </div>
+🧑‍💻 Sobre mim
+
+Sou Analista de Suporte Pleno e trabalho com sistemas em produção: investigo incidentes, leio logs e valido dados direto no banco para achar a causa raiz.
+
+Hoje também desenvolvo meu próprio aplicativo Android, do banco de dados até o APK. Uso o olhar de suporte em cada parte: segurança, LGPD, monitoramento e o que acontece quando a internet cai.
+
+🎓 Cursando Sistemas de Informação (Anhanguera)
+📊 Em transição para Análise de Dados
+📍 Blumenau/SC
+🚀 Construindo agora
+<div align="center"> <img src="./assets/terminal.svg" alt="Terminal animado" width="100%"/> </div>
+Projeto	O que é	Stack
+📱 Plinplin 🔒	App de lives com chat, presentes animados, níveis e notificações em tempo real	Flutter · Supabase · LiveKit · Cloudflare Workers
+✂️ ClipJota 🔒	Editor de cortes para clipadores, com assinatura mensal	Python · FFmpeg · Android
+🎬 Editor Jota	Versão aberta do editor de vídeos, nascida no Termux	Python · FFmpeg
+
+<sub>🔒 = repositório privado</sub>
+
+🛠️ Stack
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a00,100:F5C400&height=200&section=header&text=Jailson%20Souza&fontSize=60&fontColor=F5C400&fontAlignY=38&desc=Analista%20de%20Suporte%20%7C%20SQL%20%7C%20Cloud%20%7C%20Troubleshooting&descAlignY=58&descSize=18&descFontColor=ffffff&animation=fadeIn" />
+Apps
 
-<br/>
+<img src="https://skillicons.dev/icons?i=flutter,dart,react,androidstudio,supabase,cloudflare,firebase&theme=dark" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F5C400&center=true&vCenter=true&width=700&lines=Especialista+em+resolução+de+problemas;Suporte+Técnico+%7C+SQL+%7C+Análise+de+Logs;Foco+em+estabilidade+de+sistemas;Melhoria+contínua+e+qualidade+no+atendimento+🚀)](https://git.io/typing-svg)
+Dados
 
-<br/>
+<img src="https://skillicons.dev/icons?i=python,mysql,postgres,sqlite&theme=dark" />
 
-<a href="https://github.com/JailsonsouzaStarCityCorp">
-  <img src="https://img.shields.io/badge/GitHub-JailsonSouza-111111?style=for-the-badge&logo=github&logoColor=F5C400&labelColor=000000"/>
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/">
-  <img src="https://img.shields.io/badge/LinkedIn-Conectar-F5C400?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=111111"/>
-</a>
+Cloud & Monitoramento
+
+<img src="https://skillicons.dev/icons?i=aws,docker,grafana,prometheus,fastapi,linux,git,github&theme=dark" />
+
+Mostrar imagem Mostrar imagem Mostrar imagem Mostrar imagem
 
 </div>
+📂 Projetos de dados e cloud
+Projeto	Destaque
+📈 Projeto Final BI — B3	Dashboard de ações em Streamlit
+👥 Análise de RH com SQL e Python	SQL + EDA em Python
+📡 Monitoramento com Zabbix	API em tempo real com FastAPI e Docker
+☁️ Prometheus + Grafana na AWS	Observabilidade no Free Tier
+🛡️ Sistema Antifraude	Grafo de fraudes com Neo4j na AWS
+🏅 Certificações
+Certificação	Emissora	Status
+Oracle Cloud Infrastructure Foundations Associate	Oracle	✅ Certificado
+Oracle Data Platform 2025 Certified Foundations Associate	Oracle	✅ Certificado
+Google Ads Measurement Certification	Google	✅ Certificado
+AWS Cloud Practitioner	Amazon Web Services	📚 Em preparação
+AWS Solutions Architect Associate	Amazon Web Services	📚 Em preparação
+📊 Estatísticas
+<div align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=JailsonsouzaStarCityCorp&show_icons=true&count_private=true&hide_border=true&bg_color=0B0A12&title_color=F032E6&icon_color=22C3EE&text_color=F5F3FA&ring_color=8B3DFF&locale=pt-br" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JailsonsouzaStarCityCorp&layout=compact&hide_border=true&bg_color=0B0A12&title_color=F032E6&text_color=F5F3FA&locale=pt-br" /> <img src="https://streak-stats.demolab.com?user=JailsonsouzaStarCityCorp&hide_border=true&background=0B0A12&ring=8B3DFF&fire=F032E6&currStreakLabel=22C3EE&sideLabels=F5F3FA&dates=ABA5BF&currStreakNum=F5F3FA&sideNums=F5F3FA&locale=pt_BR" /> </div>
+🐍 Snake das minhas contribuições
+<div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JailsonsouzaStarCityCorp/jailsonsouzaStarCityCorp/output/github-snake-dark.svg" /> <img alt="Snake comendo meus commits" src="https://raw.githubusercontent.com/JailsonsouzaStarCityCorp/jailsonsouzaStarCityCorp/output/github-snake.svg" /> </picture> </div>
+💡 Como eu trabalho
+🔍 Causa raiz      →  investigo antes de mexer, no suporte e no código
+🔒 Segurança       →  LGPD e chaves fora do código desde o primeiro commit
+📈 Medir sempre    →  logs, métricas e testes reais antes de dizer "pronto"
+🚀 Entregar        →  do chamado ao deploy, sem perder o usuário de vista
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF8A1F,22:F032E6,45:8B3DFF,70:3D7BFF,100:22C3EE&height=110&section=footer"/>
 
----
-
-## 🧑‍💻 Sobre Mim
-
-Sou um **Analista de Suporte** comprometido com a estabilidade de sistemas, resolução eficiente de incidentes e excelência no atendimento ao cliente.
-
-Atuo na identificação de falhas, análise de logs, validação de dados em banco e investigação técnica de problemas em sistemas corporativos — sempre com foco em garantir **continuidade operacional** e satisfação do usuário.
-
-Perfil analítico, comunicação clara e orientado ao trabalho em equipe. Utilizo boas práticas de suporte e metodologias ágeis para entregar soluções **rápidas e confiáveis**.
-
----
-
-## 🏅 Certificações
-
-| Certificação | Emissora | Status |
-|---|---|---|
-| **Oracle Cloud Infrastructure Foundations Associate** | Oracle | ✅ Certificado |
-| **Oracle Data Platform 2025 Certified Foundations Associate** | Oracle | ✅ Certificado |
-| **AWS Cloud Practitioner** | Amazon Web Services | 📚 Em preparação |
-| **AWS Solutions Architect Associate** | Amazon Web Services | 📚 Em preparação |
-
-<div align="center">
-
-![Oracle](https://img.shields.io/badge/Oracle_Cloud-F5C400?style=for-the-badge&logo=oracle&logoColor=000000)
-![AWS](https://img.shields.io/badge/AWS-111111?style=for-the-badge&logo=amazonaws&logoColor=F5C400)
-
-</div>
-
----
-
-## 🛠️ Competências Técnicas
-
-### 🎧 Suporte & Atendimento
-
-| Competência | Descrição |
-|---|---|
-| Atendimento técnico | Suporte direto a usuários e clientes com foco em resolução ágil |
-| Gestão de chamados | Controle e priorização de incidentes via sistemas de ticketing |
-| Diagnóstico de falhas | Identificação da causa raiz em sistemas corporativos |
-| Resolução de incidentes | Investigação técnica e correção de falhas operacionais |
-| Comunicação técnica | Tradução de problemas técnicos para linguagem funcional |
-
----
-
-### 🗄️ Banco de Dados & Análise
-
-**Habilidades:** `SQL` · `SELECT` · `JOIN` · `ORDER BY` · `WHERE` · `GROUP BY`
-
-Experiência prática em validação de dados, identificação de inconsistências e suporte à investigação de incidentes com consultas em ambientes de produção.
-
-**Exemplo de consulta utilizada em triagem de incidentes:**
-
-```sql
--- Identifica pedidos com erro para investigação de incidentes
-SELECT
-    usuario_id,
-    status,
-    data_criacao
-FROM pedidos
-WHERE status = 'erro'
-ORDER BY data_criacao DESC;
-```
-
----
-
-### ☁️ Cloud
-
-<div align="center">
-
-![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud_Infrastructure-F5C400?style=for-the-badge&logo=oracle&logoColor=000000)
-![Oracle Data Platform](https://img.shields.io/badge/Oracle_Data_Platform-F5C400?style=for-the-badge&logo=oracle&logoColor=000000)
-![AWS](https://img.shields.io/badge/AWS_Cloud_Practitioner-111111?style=for-the-badge&logo=amazonaws&logoColor=F5C400)
-![AWS SA](https://img.shields.io/badge/AWS_Solutions_Architect-111111?style=for-the-badge&logo=amazonaws&logoColor=F5C400)
-
-</div>
-
----
-
-## 🎮 Mini Game — Snake AI
-
-> A IA joga sozinha enquanto você lê o perfil. Cada fruta coletada = +10 pontos.
-
-<div align="center">
-
-![Snake Game](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
-<details>
-<summary>🐍 Como funciona o Snake AI?</summary>
-
-O agente utiliza uma combinação de **flood fill** (para garantir que não se prenda num espaço fechado) e **busca pela menor distância de Manhattan** até a comida — o mesmo raciocínio analítico que aplico no suporte técnico: avaliar o caminho mais seguro antes de agir.
-
-</details>
-
----
-
-## 💡 Valores Profissionais
-
-```
-⚡ Resolução rápida     →  Diagnóstico eficiente com foco em tempo de resposta
-🔍 Análise técnica      →  Investigação profunda para encontrar a causa raiz
-📈 Melhoria contínua    →  Qualidade no atendimento e aprendizado constante
-🤝 Trabalho em equipe   →  Colaboração e comunicação clara com todas as áreas
-```
-
----
-
-## 📬 Contato
-
-<div align="center">
-
-<a href="https://github.com/JailsonsouzaStarCityCorp">
-  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=F5C400"/>
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/">
-  <img src="https://img.shields.io/badge/LinkedIn-F5C400?style=for-the-badge&logo=linkedin&logoColor=000000"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F5C400,50:1a1a00,100:000000&height=100&section=footer"/>
-
-*"Cada incidente é uma oportunidade de aprender, melhorar e entregar mais valor."*
+"Cada incidente é uma oportunidade de aprender — e cada bug resolvido vira um app melhor."
 
 </div>
