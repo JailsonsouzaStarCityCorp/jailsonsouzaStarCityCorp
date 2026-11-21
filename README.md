@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22C3EE,30:3D7BFF,55:8B3DFF,78:F032E6,100:FF8A1F&height=220&section=header&text=Jailson%20Souza&fontSize=62&fontColor=F5F3FA&fontAlignY=36&desc=Suporte%20%E2%80%A2%20Dados%20%E2%80%A2%20Cloud%20%E2%80%A2%20Dev%20de%20Apps&descAlignY=58&descSize=20&descFontColor=F5F3FA&animation=twinkling" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F032E6&center=true&vCenter=true&width=720&lines=Analista+de+Suporte+%26+Dados+%F0%9F%93%8A;Criando+meu+pr%C3%B3prio+app+Android+%F0%9F%93%B1;Flutter+%7C+Python+%7C+SQL+%7C+Supabase;Cloud+e+Monitoramento+%E2%98%81%EF%B8%8F;Do+chamado+ao+deploy+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F032E6&center=true&vCenter=true&width=720&lines=Analista+de+Suporte+%26+Dados+%F0%9F%93%8A;Criando+meu+pr%C3%B3prio+app+Android+%F0%9F%93%B1;Python+%7C+SQL+%7C+Dados+%7C+Android;Cloud+e+Monitoramento+%E2%98%81%EF%B8%8F;Do+chamado+ao+deploy+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <a href="https://www.linkedin.com/in/jailsonsilvaanalista">
   <img src="https://img.shields.io/badge/LinkedIn-Conectar-3D7BFF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B0A12"/>
