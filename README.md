@@ -26,7 +26,6 @@ Hoje também **desenvolvo meu próprio aplicativo Android**, do banco de dados a
 
 - 🎓 Cursando **Sistemas de Informação** (Anhanguera)
 - 📊 Em transição para **Análise de Dados**
-- 📍 Blumenau/SC
 
 ---
 
